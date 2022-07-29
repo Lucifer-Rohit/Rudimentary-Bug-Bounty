@@ -27,7 +27,7 @@
 **Nahamsec's Beginners Resources** -Tutorials and an understanding of bug bounty<br />
 • [GitHub](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
-## Youtube
+## Youtube :computer:
 - [Farah Hawa](https://www.youtube.com/channel/UCq9IyPMXiwD8yBFHkxmN8zg)
 - [Nahamsec](https://www.youtube.com/c/Nahamsec)
 - [HackerSploit](https://www.youtube.com/c/HackerSploit)
@@ -48,7 +48,7 @@
 
 Tips from triager - [Link](https://mike-sheward.medium.com/bug-bounties-tips-from-the-triager-7cb092efd22a)<br />
 
-## Keeping Up with the Industry
+## Keeping Up with the Industry :office:
 
 **News and Affairs:**
 - [Securibee](https://securib.ee/newsletter) - Great Newsletter<br />
@@ -73,7 +73,7 @@ Tips from triager - [Link](https://mike-sheward.medium.com/bug-bounties-tips-fro
 - [dayzerosec](https://dayzerosec.com/)
 - [Darknet Diaries](https://darknetdiaries.com/) - Podcast on cyber attacks that had happened<br />
 
-## Helpful Links
+## Helpful Links 	:link:
 I gathered some links that our community has found useful for learning advanced skills and staying knowledgeable about the world of pen testing and bug bounty hunting. Be sure to bookmark these!
 
 **Subdomain takeovers** - Information on how to take over subdomains you enumerate or come across one<br />
@@ -90,7 +90,7 @@ I gathered some links that our community has found useful for learning advanced 
 
 There is an awesome [checklist](https://github.com/sehno/Bug-bounty/blob/master/bugbounty_checklist.md) created by [senho](https://github.com/sehno) which has all the bug bounty testing techniques that need to performed while testing a web application. This is a very good methodology to have a checklist which can help you be organized when doing or checking for bugs.<br />
 
-## Blogs
+## Blogs :bookmark:
 All the blogs below are written and maintained by hackers in the Bounty Hunters discord! They all provide interesting stories and unique perspectives about vulnerabilities and bug hunting techniques.<br />
 
 - [Monke](https://www.monke.ie/)
